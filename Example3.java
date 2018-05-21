@@ -7,6 +7,6 @@ class Example3{
 		x = 10.0;
 		var = var/4;
 		x = x /4;
-		System.out.println("Equals !!! "+x +" === " + var);
+		System.out.println("Equals "+x +" === " + var);
 	}
 }
