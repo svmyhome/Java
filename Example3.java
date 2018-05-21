@@ -8,5 +8,6 @@ class Example3{
 		var = var/4;
 		x = x /4;
 		System.out.println("Equals !!! "+x +" === " + var);
+		System.out.println(" =HOTFIXES= ");
 	}
 }
